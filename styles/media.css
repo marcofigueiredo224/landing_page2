@@ -28,3 +28,26 @@
         text-align: center;
     }
 }
+
+
+@media screen and (min-width: 1400px) {
+    #title{
+        margin-left: -260px;
+
+    }
+    #menu{
+        margin-right: -260px;
+    }
+
+    #h1-form{
+        margin-top: 50px;
+        margin-left: -260px;
+        
+    }
+
+    img{
+        width: 700px;
+        margin-top: 50px;
+        margin-left: 170px;
+    }
+  }
